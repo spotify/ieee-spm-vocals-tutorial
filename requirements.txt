@@ -1,0 +1,10 @@
+keras
+librosa
+pescador
+sklearn
+tqdm
+ipython
+matplotlib
+numpy
+pandas
+soundfile
