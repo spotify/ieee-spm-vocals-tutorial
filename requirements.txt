@@ -1,10 +1,11 @@
+ipython
 keras
 librosa
-pescador
-sklearn
-tqdm
-ipython
 matplotlib
+mir_eval
 numpy
 pandas
+pescador
+scikit-learn
 soundfile
+tqdm
