@@ -14,7 +14,7 @@ This repository contains three Jupyter notebooks demonstrating machine learning 
 
 * [Tutorial 1 - Vocal Activity Detection](https://github.com/spotify/ieee-spm-vocals-tutorial/blob/master/Tutorial%201%20-%20Vocal%20Activity%20Detection.ipynb)
 * [Tutorial 2 - Vocalist ID and Similarity](https://github.com/spotify/ieee-spm-vocals-tutorial/blob/master/Tutorial%202%20-%20Vocalist%20Identification.ipynb)
-* [Tutorial 3 - Sung Language ID](https://github.com/spotify/ieee-spm-vocals-tutorial/blob/master/Tutorial%203%20-%20Sung%20Language%20ID.ipynb)
+* [Tutorial 3 - Sung Language ID](https://github.com/spotify/ieee-spm-vocals-tutorial/blob/master/Tutorial%203%20-%20Sung%20Language%20Identification.ipynb)
 
 
 ## Dependencies
